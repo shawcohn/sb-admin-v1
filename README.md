@@ -1,0 +1,1 @@
+This is adoption for [SBAdmin v1](https://github.com/IronSummitMedia/startbootstrap/tree/master/templates/sb-admin) template for using with [Bower](http://bower.io).
